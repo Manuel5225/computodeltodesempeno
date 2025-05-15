@@ -1,0 +1,73 @@
+Herramientas Open Source para Cómputo de Alto Desempeño (HPC)
+
+El cómputo de alto desempeño (HPC) es el uso de supercomputadoras y técnicas paralelas de procesamiento para resolver problemas complejos que requieren gran capacidad de cálculo. 
+En este contexto, las herramientas open source han cobrado gran relevancia por su accesibilidad, flexibilidad, y comunidad activa de desarrollo.
+
+¿Por qué herramientas open source en HPC?
+
+Costo reducido: No hay licencias propietarias.
+Flexibilidad: Se puede modificar y adaptar a necesidades específicas.
+Transparencia: Código fuente accesible para auditorías.
+Comunidad activa: Soporte y desarrollo colaborativo continuo.
+
+Principales herramientas open source para HPC
+
+MPI (Message Passing Interface)**
+
+Descripción: Estándar para la comunicación entre procesos en memoria distribuida.
+Implementaciones populares:
+
+  OpenMPI
+  MPICH
+  Uso: Paralelización de código en clústeres de computadoras.
+
+ OpenMP
+
+Descripción: API para paralelismo en memoria compartida.
+Ventajas: Fácil de usar con C, C++ y Fortran.
+Uso: Paralelización a nivel de hilos dentro de un solo nodo.
+
+SLURM (Simple Linux Utility for Resource Management)
+
+Descripción: Gestor de recursos y planificador de trabajos.
+Uso: Administrar colas de trabajos en clústeres.
+
+GNU Parallel
+
+Descripción: Herramienta para ejecutar comandos en paralelo en múltiples núcleos o máquinas.
+Uso: Automatización de tareas paralelas simples.
+
+HPC Toolkit
+
+Descripción: Conjunto de herramientas para análisis de rendimiento.
+Uso: Perfilado y optimización de aplicaciones HPC.
+
+Singularity
+
+Descripción: Plataforma de contenedores orientada a HPC (alternativa a Docker).
+Uso: Portabilidad y reproducibilidad de entornos de ejecución.
+
+PETSc (Portable, Extensible Toolkit for Scientific Computation)**
+
+Descripción: Biblioteca para resolver ecuaciones diferenciales parciales (PDEs).
+Uso: Aplicaciones científicas y de ingeniería.
+
+FFTW (Fastest Fourier Transform in the West)**
+
+Descripción: Biblioteca para transformadas rápidas de Fourier.
+Uso: Análisis de señales, procesamiento de imágenes, etc.
+
+Comparación de herramientas
+
+| Herramienta     | Tipo de paralelismo | Área de aplicación | Lenguajes soportados | Comunidad/Soporte |
+| --------------- | ------------------- | ------------------ | -------------------- | ----------------- |
+| OpenMPI / MPICH | Distribuido         | General            | C, C++, Fortran      | Muy activa        |
+| OpenMP          | Compartido          | General            | C, C++, Fortran      | Activa            |
+| SLURM           | Administración      | Clústeres          | Scripts Bash, etc.   | Muy activa        |
+| GNU Parallel    | Compartido o remoto | Automatización     | Shell                | Activa            |
+| Singularity     | Contenedores        | Portabilidad       | N/A                  | Activa            |
+
+Las herramientas open source para HPC constituyen una base sólida para el desarrollo de aplicaciones científicas, técnicas e industriales. 
+Su adopción permite escalar soluciones computacionales sin depender de licencias costosas, promoviendo la investigación y el desarrollo tecnológico.
+
+
