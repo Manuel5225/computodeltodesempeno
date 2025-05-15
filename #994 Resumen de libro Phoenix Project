@@ -1,0 +1,41 @@
+La historia gira en torno a Bill Palmer, un gerente de operaciones de TI en la ficticia empresa Parts Unlimited. 
+Después de una serie de fracasos tecnológicos y proyectos caóticos, Bill es promovido inesperadamente a Vicepresidente de Operaciones de TI. 
+Su misión principal: **salvar el "Proyecto Phoenix"**, una iniciativa de transformación digital clave para la empresa… que está completamente fuera de control.
+Enfrentando interrupciones constantes, sistemas rotos y una cultura de culpa, Bill se apoya en Erik, 
+un misterioso mentor que lo guía a través de principios de manufactura lean y DevOps. 
+Erik le muestra que los problemas de TI no son diferentes a los de una fábrica: hay cuellos de botella, desperdicio, trabajo no visible y falta de flujo.
+
+Los Tres Caminos del DevOps
+
+Flujo: Maximizar el flujo del trabajo desde desarrollo hasta producción.
+Retroalimentación: Aumentar la rapidez y calidad del feedback.
+Aprendizaje continuo: Fomentar una cultura de experimentación y mejora continua.
+
+Trabajo visible
+
+La mayoría del trabajo de TI es invisible. Para gestionarlo bien, debe ser visible como en una línea de producción.
+
+Límites del WIP (Work In Progress)
+
+Demasiado trabajo en progreso causa cuellos de botella y bloqueos. Limitarlo permite mayor eficiencia.
+
+Cultura de colaboración
+
+Romper los silos entre desarrollo, operaciones, seguridad y negocio es fundamental para avanzar.
+
+Automatización y entrega continua
+
+Automatizar pruebas, integraciones y despliegues reduce errores y acelera la entrega de valor.
+
+
+
+Transformación de Bill y la empresa.
+
+A medida que Bill aplica los principios de DevOps, logra transformar:
+
+  La cultura: De una organización reactiva y culpabilizadora a una colaborativa.
+  Los procesos: Implementación de integración continua, automatización, entrega más ágil.
+  Los resultados: El Proyecto Phoenix finalmente se lanza con éxito y la empresa mejora su rendimiento.
+
+The Phoenix Project usa la narrativa como vehículo para enseñar buenas prácticas en IT y DevOps. 
+Muestra cómo los desafíos técnicos son en realidad problemas humanos y organizacionales, y cómo la solución implica transformar la cultura y los procesos
